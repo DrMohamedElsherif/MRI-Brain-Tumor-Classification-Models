@@ -1,1 +1,2 @@
 # MRI-Brain-Tumor-Classification-Models
+This repository contains a collection of Python notebooks focused on MRI brain tumor classification and detection. The projects utilize both customized and pretrained Convolutional Neural Networks (CNNs) to accurately classify and detect various types of brain tumors from MRI images. Please note that these notebooks are still under continuous improvement and are not in their final versions.
